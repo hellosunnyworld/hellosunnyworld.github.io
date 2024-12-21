@@ -420,3 +420,11 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+gems:
+  - jekyll-sitemap
+
+seo:
+  title: "Muhan Lin's Portfolio"
+  description: "Explore my projects in robotics, RL, and more."
+  keywords: ["Muhan Lin", "CMU", "MSR","RI","shenzhen","cuhk","Robotics", "Reinforcement Learning", "RL"]
+
