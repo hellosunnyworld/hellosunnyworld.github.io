@@ -25,8 +25,10 @@ title:                 Muhan Lin
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Muhan Lin's personal website and portfolio.
+
+url: "https://hellosunnyworld.github.io"  # Replace with your GitHub Pages URL
+baseurl: "" 
 
 # A shorter description for the sidebar.
 tagline:               Researching for the intellectual form of aesthetics.
@@ -333,7 +335,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
-
+markdown: kramdown
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
@@ -428,3 +430,9 @@ seo:
   description: "Explore my projects in robotics, RL, and more."
   keywords: ["Muhan Lin", "CMU", "MSR","RI","shenzhen","cuhk","Robotics", "Reinforcement Learning", "RL"]
 
+exclude:
+  - README.md  # Prevents README from being listed in sitemap
+sitemap:
+  exclude: 
+    - /private-page  # Excludes specific pages or paths
+  last_modified_at: true  # Adds last modified timestamps if available
