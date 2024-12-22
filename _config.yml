@@ -428,7 +428,7 @@ gems:
 seo:
   title: "Muhan Lin's Portfolio"
   description: "Explore my projects in robotics, RL, and more."
-  keywords: ["Muhan Lin", "CMU", "MSR","RI","shenzhen","cuhk","Robotics", "Reinforcement Learning", "RL"]
+  keywords: ["Muhan Lin", "CMU", "MSR","RI","shenzhen","CUHK-Shenzhen","cuhksz","cuhk","Robotics", "Reinforcement Learning", "RL"]
 
 exclude:
   - README.md  # Prevents README from being listed in sitemap
