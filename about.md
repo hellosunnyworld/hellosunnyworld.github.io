@@ -31,7 +31,7 @@ cover: true
 
 ## Professional Service
 
-Served as a reviewer for ICRA 2023, 2024 and IEEE Transactions on Games 2024
+Served as a reviewer for ICRA 2024, 2025 and IEEE Transactions on Games 2024
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/
