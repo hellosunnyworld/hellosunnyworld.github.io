@@ -151,7 +151,7 @@ permalink: /research/
     <h2>Addressing Unexpected Delays in Multi-agent Path Plan Execution</h2>
     <div class="publication-entry">
       <h3>[AAAI 2025]</h3>
-      <p class="publication-title" style="font-size: 16px;"><em>Speedup Techniques for Switchable Temporal Plan Graph Optimization</em></p>
+      <p class="publication-title" style="font-size: 16px;"><a href="https://arxiv.org/pdf/2412.15908"><em>Speedup Techniques for Switchable Temporal Plan Graph Optimization</em></a></p>
       <p class="authors" style="font-size: 13px;">
         He Jiang, <strong>Muhan Lin</strong>, Jiaoyang Li
       </p>
@@ -166,8 +166,8 @@ permalink: /research/
       <li>Achieved over 100% improvement in STPG reconstruction success rates within 0.5 seconds across maps with varying agent densities, outperforming <em>Mixed-Integer Linear Programming</em> and <em>naive graph-based methods</em>.</li>
     </ul>
     <div class="links" style="display: inline;">
-      <!-- <a href="https://arxiv.org/pdf/2410.17389"><strong style="color: skyblue;">Paper</strong></a> /
-      <a href="https://youtu.be/jKKUqB-nf7Y"><strong style="color: skyblue;">Video</strong></a> / -->
+      <a href="https://arxiv.org/pdf/2412.15908"><strong style="color: skyblue;">Paper</strong></a> /
+      <!-- <a href="https://youtu.be/jKKUqB-nf7Y"><strong style="color: skyblue;">Video</strong></a> / -->
       <a href="https://github.com/DiligentPanda/STPG"><strong style="color: skyblue;">Code</strong></a>
     </div>
   </div>
