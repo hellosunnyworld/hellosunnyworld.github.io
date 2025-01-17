@@ -150,7 +150,7 @@ permalink: /research/
   <div class="project-content">
     <h2>Addressing Unexpected Delays in Multi-agent Path Plan Execution</h2>
     <div class="publication-entry">
-      <h3>[AAAI 2025]</h3>
+      <h3>[AAAI 2025 (Oral)]</h3>
       <p class="publication-title" style="font-size: 16px;"><a href="https://arxiv.org/pdf/2412.15908"><em>Speedup Techniques for Switchable Temporal Plan Graph Optimization</em></a></p>
       <p class="authors" style="font-size: 13px;">
         He Jiang, <strong>Muhan Lin</strong>, Jiaoyang Li

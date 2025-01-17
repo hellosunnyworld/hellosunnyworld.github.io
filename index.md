@@ -14,7 +14,7 @@ cover: true
 
 ## News
 
-[Dec 2024] [IGSES](https://arxiv.org/pdf/2412.15908) is accepted to AAAI 2025!  
+[Jan 2025] [IGSES](https://arxiv.org/pdf/2412.15908) is accepted to AAAI 2025 for oral presentation!  
 
 [Nov 2024] Excited to attend EMNLP 2024 in Miami—looking forward to connecting with everyone there!   
     
