@@ -33,7 +33,7 @@ cover: true
 
 ## Professional Service
 
-Served as a reviewer for ICRA 2024, 2025 and IEEE Transactions on Games 2024
+Served as a reviewer for RAL 2025, Neurips ARLET 2025, ICRA 2024, 2025 and IEEE Transactions on Games 2024
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/

@@ -67,7 +67,7 @@ permalink: /research/
     <div class="publication-entry">
       <p class="publication-title" style="font-size: 16px;"><em>Speaking the Language of Teamwork: LLM-Guided Credit Assignment in Multi-Agent Reinforcement Learning</em></p>
       <p class="authors" style="font-size: 13px;">
-        <strong>Muhan Lin</strong>, Shuyang Shi, Vinitha Marupeddi, Yue Guo, Vaishnav Tadiparthi, Behdad Chalaki, Ehsan Moradi Pari, Simon Stepputtis, Woojun Kim, Joseph Campbell, Katia Sycara
+        <strong>Muhan Lin</strong>, Shuyang Shi, Yue Guo, Vaishnav Tadiparthi, Behdad Chalaki, Ehsan Moradi Pari, Simon Stepputtis, Woojun Kim, Joseph Campbell, Katia Sycara
       </p>
     </div>
     <p class="description" style="font-size: 14px;"> In submission </p>
