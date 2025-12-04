@@ -14,6 +14,8 @@ cover: true
 
 ## News
 
+[Nov 2025] I am honored to receive the Toyota Research Institute (North America) PhD Fellowship! 
+
 [Jan 2025] [IGSES](https://arxiv.org/pdf/2412.15908) is accepted to AAAI 2025 for oral presentation!   
 
 [Nov 2024] Excited to attend EMNLP 2024 in Miami—looking forward to connecting with everyone there!   
@@ -33,7 +35,7 @@ cover: true
 
 ## Professional Service
 
-Served as a reviewer for RAL 2025, Neurips ARLET 2025, ICRA 2024, 2025 and IEEE Transactions on Games 2024
+Served as a reviewer for RAL 2025, Neurips ARLET 2025, ICRA 2024 - 2026 and IEEE Transactions on Games 2024
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/
