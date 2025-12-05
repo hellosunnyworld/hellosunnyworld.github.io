@@ -14,7 +14,7 @@ cover: true
 
 ## News
 
-[Nov 2025] I am honored to receive the Toyota Research Institute (North America) PhD Fellowship! 
+[Nov 2025] I am honored to receive the **Toyota Research Institute (North America) PhD Fellowship**! 
 
 [Jan 2025] [IGSES](https://arxiv.org/pdf/2412.15908) is accepted to AAAI 2025 for oral presentation!  
 
