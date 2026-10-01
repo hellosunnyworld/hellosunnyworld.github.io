@@ -63,8 +63,11 @@ permalink: /research/
     </ul>-->
   </div>
 </div>
+
 ---
+
 ## Past Work
+
 <div class="project">
   <div class="project-image">
     <img src="/assets/img/overview_agent_training.svg" alt="Project Image" class="project-logo">
