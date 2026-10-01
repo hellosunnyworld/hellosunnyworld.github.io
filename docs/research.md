@@ -38,13 +38,13 @@ permalink: /research/
 
 <div class="project">
   <div class="project-image">
-    <img src="assets/img/rlmaif-overview.pdf" alt="Project Image" class="project-logo">
+    <img src="/assets/img/rlmaif-overview.svg" alt="Project Image" class="project-logo">
   </div>
 
   <div class="project-content">
     <h2>AI-assisted Reward Learning for Robot Locomotion</h2>
     <div class="publication-entry">
-      <p class="publication-title" style="font-size: 16px;"><a href="https://arxiv.org/abs/2606.25398"><em>MAPL: Multi-Objective Preference Learning for Robot Locomotion</em></p>
+      <p class="publication-title" style="font-size: 16px;"><a href="https://arxiv.org/abs/2606.25398"><em>MAPL: Multi-Objective Preference Learning for Robot Locomotion</em></a></p>
       <p class="authors" style="font-size: 13px;">
         Xiyue Chen, <strong>Muhan Lin</strong>, Shuyang Shi, Joseph Campbell
       </p>
