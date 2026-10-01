@@ -7,11 +7,70 @@ permalink: /research/
 
 ## Current Work
 <div class="project">
+  <!-- <div class="project-image">
+    <img src="/assets/img/ad hoc team.svg" alt="Project Image" class="project-logo">
+  </div> -->
+
+  <div class="project-content">
+    <h2>Data-Efficient Reward Learning from LLM Feedback</h2>
+    <h3>ICRA 2027, US Patent</h3>
+    <div class="publication-entry">
+      <p class="publication-title" style="font-size: 16px;"><em>RM-Drive: LLM-driven Reward Machines for Condition-Aware Adversarial Driving Scenario Generation</em></p>
+      <p class="authors" style="font-size: 13px;">
+        <strong>Muhan Lin</strong>, Kai-Chun Chang, Hideki Okamoto, Bardh Hoxha, Joseph Campbell, Georgios Fainekos
+      </p>
+    </div>
+    <p class="description" style="font-size: 14px;"> In submission </p>
+    <!-- <a href="link_to_paper" class="paper-link">Paper</a> -->
+    <div class="keywords">
+      <a class="keyword">Reward Design</a>
+      <a class="keyword">Multi-agent Reinforcement Learning</a>
+      <a class="keyword">Autonomous Driving</a>
+      <!-- Add more keywords as needed -->
+    </div>
+    <!-- <p class="description" style="font-size: 14px;"> Accelerated multiagent RL by enabling agents with different levels of prior competency to cooperate effectively in solving a shared task: </p> -->
+    <ul style="font-size: 14px;">
+      <li>Developed RL-based adversarial driving scenario generation for safety tests of autonomous driving systems using context-aware reward modeling.</li>
+      <li>Built LLM-driven Reward Machines for structured, interpretable adversarial traffic generation, automating reward designs.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="project">
+  <div class="project-image">
+    <img src="assets/img/rlmaif-overview.pdf" alt="Project Image" class="project-logo">
+  </div>
+
+  <div class="project-content">
+    <h2>AI-assisted Reward Learning for Robot Locomotion</h2>
+    <div class="publication-entry">
+      <p class="publication-title" style="font-size: 16px;"><a href="https://arxiv.org/abs/2606.25398"><em>MAPL: Multi-Objective Preference Learning for Robot Locomotion</em></p>
+      <p class="authors" style="font-size: 13px;">
+        Xiyue Chen, <strong>Muhan Lin</strong>, Shuyang Shi, Joseph Campbell
+      </p>
+    </div>
+    <p class="description" style="font-size: 14px;"> In submission </p>
+    <!-- <a href="link_to_paper" class="paper-link">Paper</a> -->
+    <div class="keywords">
+      <a class="keyword">Reward Design</a>
+      <a class="keyword">Reinforcement Learning</a>
+      <a class="keyword">Robot Locomotion</a>
+      <!-- Add more keywords as needed -->
+    </div>
+    <p class="description" style="font-size: 14px;"> Multi-objective reward learning from LLM preferences for sim-to-real quadruped locomotion, reducing manual reward engineering </p>
+    <!--<ul style="font-size: 14px;">
+      <li>Using a multi-armed bandit algorithm, the most experienced agent evaluated teammates' skills, assigned suitable sub-tasks, and adapted agents to these tasks via a policy advising algorithm, improving team learning and task efficiency.</li>
+    </ul>-->
+  </div>
+</div>
+---
+## Past Work
+<div class="project">
   <div class="project-image">
     <img src="/assets/img/overview_agent_training.svg" alt="Project Image" class="project-logo">
   </div>
   <div class="project-content">
-    <h2>Enhance RL with Noisy LLM Feedback</h2>
+    <h2>Reward Learning from Noisy LLM Feedback</h2>
 
     <!-- EMNLP 2024 Entry -->
     <div class="publication-entry">
@@ -62,7 +121,7 @@ permalink: /research/
     <img src="/assets/img/credit-assign.svg" alt="Project Image" class="project-logo">
   </div>
   <div class="project-content">
-    <h2>AI-based Credit Assignment</h2>
+    <h2>AI-Assisted Reward Learning for Credit Assignment</h2>
 
     <div class="publication-entry">
       <p class="publication-title" style="font-size: 16px;"><em>Speaking the Language of Teamwork: LLM-Guided Credit Assignment in Multi-Agent Reinforcement Learning</em></p>
@@ -94,7 +153,7 @@ permalink: /research/
   </div>
 </div>
 
-<div class="project">
+<!-- <div class="project">
   <div class="project-image">
     <img src="/assets/img/ad hoc team.svg" alt="Project Image" class="project-logo">
   </div>
@@ -108,18 +167,16 @@ permalink: /research/
       </p>
     </div>
     <p class="description" style="font-size: 14px;"> In submission </p>
-    <!-- <a href="link_to_paper" class="paper-link">Paper</a> -->
     <div class="keywords">
       <a class="keyword">Transfer Learning</a>
       <a class="keyword">Multi-agent Reinforcement Learning</a>
-      <!-- Add more keywords as needed -->
     </div>
     <p class="description" style="font-size: 14px;"> Accelerated multiagent RL by enabling agents with different levels of prior competency to cooperate effectively in solving a shared task: </p>
     <ul style="font-size: 14px;">
       <li>Using a multi-armed bandit algorithm, the most experienced agent evaluated teammates' skills, assigned suitable sub-tasks, and adapted agents to these tasks via a policy advising algorithm, improving team learning and task efficiency.</li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <div class="project">
   <div class="project-image">
@@ -133,16 +190,15 @@ permalink: /research/
     <!-- <a href="link_to_paper" class="paper-link">Paper</a> -->
     <div class="keywords">
       <!-- <a href="link_to_related_content" class="keyword">Paper</a> -->
-      <a class="keyword">ROS</a>
       <a class="keyword">Mobile Manipulator</a>
       <a class="keyword">VLM</a>
+      <a class="keyword">ROS</a>
       <!-- Add more keywords as needed -->
     </div>
     Implemented a mobile manipulator navigation framework for large-scale wall-painting. Integrated VLM models to enable image-to-stroke creative painting.
   </div>
 </div>
----
-## Past Work
+
 <div class="project">
   <div class="project-image">
     <img src="/assets/img/STPG.png" alt="Project Image" class="project-logo">
